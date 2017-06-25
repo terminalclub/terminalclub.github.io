@@ -1,1 +1,1 @@
-# terminalclub.github.io
+# http://terminalclub.github.io
